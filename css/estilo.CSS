@@ -1,0 +1,141 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background-color: white;
+	
+}
+.Tiutlo
+{
+	text-align: center;
+	color: white;
+}
+.Tiutlo2
+{
+	display: flex;
+	text-align: center;
+}
+.Tiutlo3
+{
+	text-align: center;
+}
+.Tiutlo4
+{
+	text-align: center;
+}
+.Tiutlo
+{
+	background-color: #56070C;
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+}
+.botones
+{
+	text-align: center;
+	color:white;
+	background-color: #56070C;
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+}
+img
+{
+	width: 100px;
+	height: 100px;
+}
+.cbtis
+{
+	font-size: 20pt;
+}
+.b0, .b1, .b2, .b3, .b4, .b5,  .b6, .b7
+{
+	background-color: white;
+	margin: .50px; 
+	width: 140px;
+	text-align: center;
+	padding: 5px 0px 5px 0px ;
+}
+.container
+{
+	display: flex;
+	background-color: none;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.b0:hover, .b1:hover, .b2:hover, .b3:hover, .b4:hover, .b5:hover, .b6:hover, .b7:hover
+{
+	background-color: white;
+	transform: scale(1.20);
+}
+.imagen
+{
+	width: 350px;
+	height:400px;
+	text-align: center;
+}
+.imagen:hover
+{
+	background-color: white;
+	transform: scale(1.50);
+}
+.registro
+{
+	text-align: center;
+	color:white;
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+}
+.b10:hover, .b11:hover
+{
+	background-color: white;
+	transform: scale(1.20);
+}
+.link
+{
+	text-align: center;
+}
+.b10, .b11, .b12, .b30
+{
+background-color: 	#F4F4F4;
+	margin: .50px; 
+	width: 140px;
+	text-align: center;
+	padding: 5px 0px 5px 0px ;
+}
+.b10:hover, .b11:hover, .b12:hover, .b30:hover
+{
+	background-color: white;
+	transform: scale(1.20);
+}
+.COMENTARIOS
+{
+	text-align: center;
+}
+.palabra
+{
+	background-color: #F4F4F4;
+}
+.PUBLI
+{
+	background-color: black;
+	color: white;
+}
+.ana, .ana1
+{
+	width: 500px;
+}
+.ana
+{
+		height:30px;
+}
+.ana1
+{
+		height:100px;
+}
+.eva
+{
+	text-align: center;
+}
